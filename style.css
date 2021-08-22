@@ -1,0 +1,44 @@
+body {
+    background: #000;
+    max-width: 750px;
+    font-family: monospace;
+    color: #baa898;
+    margin: 5em;
+}
+
+h2 {
+    color: #b27d4d;
+    margin: 1em 0 2em;
+}
+
+nav li {
+    font-size: 20px;
+    padding-top: 0.5em;
+}
+
+a {
+    color: #ae937c;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e4d7cc;
+}
+
+a:active {
+    color: #505a53;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.bottom {
+    margin: 5em 0 6em;
+}
+
+img {
+    margin: 1em 0;
+    max-width: 100%;
+}
